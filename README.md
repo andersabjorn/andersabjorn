@@ -1,7 +1,7 @@
 # Hi, I'm Anders 👋
 ### From Top Sales to .NET Developer
 
-I am 46 years old and currently reinventing myself. After 25 years in sales (Lokaldelen, Hitta.se, UPS, Dina Försäkringar), I realized that my discipline and drive could build something more permanent than just the next deal. I am now channeling that energy into C# and .NET.
+I am 46 years old and currently reinventing myself. After 25 years in sales (Dina Försäkringar, UPS, Hitta.se, Lokaldelen), I realized that my discipline and drive could build something more permanent than just the next deal. I am now channeling that energy into C# and .NET.
 
 **My Philosophy:**
 > "You don't have to be born a programmer. You become one through discipline and patience."
