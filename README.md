@@ -8,7 +8,7 @@ I am 46 years old and currently reinventing myself. After 25 years in sales (Din
 
 **Current Focus:**
 * 🏗️ **Architecture:** Learning Layered Architecture, Repository Pattern & Dependency Injection.
-* 💻 **C# & .NET:** Building a console-based ERP system (moving to Web API soon).
+* 🏆 **Milestone:** Just completed **[ERP Core Console](https://github.com/andersabjorn/ERPCore)** – A prototype built with C#, SQL & Clean Architecture.
 * 📚 **Education:** Studying .NET Development in Gävle (Class of '25).
 
 **Tech Stack:**
@@ -19,19 +19,3 @@ I am 46 years old and currently reinventing myself. After 25 years in sales (Din
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/andersabjorn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)*
-
-
-<!--
-**andersabjorn/andersabjorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
