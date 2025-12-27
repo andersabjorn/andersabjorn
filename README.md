@@ -18,7 +18,7 @@ I am 46 years old and currently reinventing myself. After 25 years in sales (Din
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/din-linkedin-profil-här)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/andersabjorn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)*
 
 
 <!--
