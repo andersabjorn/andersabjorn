@@ -19,7 +19,9 @@ I'm 46 and redefining my career. After 25 years in sales (Dina Försäkringar, U
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **GitHub Stats & Activity**
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andersabjorn&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersabjorn&layout=compact&theme=dracula&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=andersabjorn&color=blueviolet&style=flat-square&label=Profile+views)
 
 **Projects I'm Proud Of**
 - **[ERP Core Console](https://github.com/andersabjorn/ERPCore)** — Clean Architecture, Repository Pattern, SQL Server + EF Core
