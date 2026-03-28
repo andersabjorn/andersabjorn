@@ -19,8 +19,11 @@ I'm 46 and redefining my career. After 25 years in sales (Dina Försäkringar, U
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **GitHub Stats & Activity**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andersabjorn&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersabjorn&layout=compact&theme=dracula&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andersabjorn&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersabjorn&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800)
+
 ![Profile views](https://komarev.com/ghpvc/?username=andersabjorn&color=blueviolet&style=flat-square&label=Profile+views)
 
 **Projects I'm Proud Of**
