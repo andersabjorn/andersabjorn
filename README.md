@@ -32,7 +32,7 @@ I'm 46 and redefining my career. After 25 years in sales (Dina Försäkringar, U
 - **[BollInnasTrends](https://github.com/andersabjorn/BollInnasTrends)** — ...
 
 **What I'm Learning Right Now**
-- Frontend Masters: C# & .NET Basics → Databases → Computer Science → Algorithms → Backend System Design
+- Frontend Masters: C# & .NET Basics → Databases → C → Computer Science → Algorithms → Backend System Design
 - YH Teknikhögskolan: Development with .NET Framework (ASP.NET Core, Web API, EF Core)
 
 **Let's Connect**
