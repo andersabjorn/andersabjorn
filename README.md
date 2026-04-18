@@ -20,7 +20,7 @@ I'm 46 and redefining my career. After 25 years in sales (Dina Försäkringar, U
 
 **GitHub Stats & Activity**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=andersabjorn&theme=dracula&hide_border=true&count_private=true&start_date=2026-04-17)
+![GitHub Streak](https://streak-stats.demolab.com?user=andersabjorn&theme=dracula&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersabjorn&layout=compact&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800)
 
