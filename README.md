@@ -26,7 +26,7 @@ I'm 46 and redefining my career. After 25 years in sales (Dina Försäkringar, U
 
 ## Why ERP specifically
 
-I'm starting my LIA internship at **Monitor ERP** in September 2026 — one of 3–5 spots in their Graduate Developer Program. Monitor builds production and manufacturing systems used by Swedish industry. I've spent 25 years selling to that same industry. The LIA placement isn't a coincidence. It's where my two careers meet.
+I'm starting my LIA internship at **Monitor ERP** in September 2026 — one of 3 spots. Monitor builds production and manufacturing systems used by Swedish industry. I've spent 25 years selling to that same industry. The LIA placement isn't a coincidence. It's where my two careers meet.
 
 I call this combination **The Business Engineer** — deep domain knowledge meeting emerging technical skill.
 
